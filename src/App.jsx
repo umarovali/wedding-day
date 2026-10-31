@@ -59,8 +59,8 @@ const CONFIG = {
   openSfx: "/magic.mp3",
 };
 
-const MUSIC_AT = 3.2; // секунд после нажатия: музыка начинает проявляться
-const MUSIC_FADE = 3.2; // секунд плавного нарастания музыки
+const MUSIC_AT = 2.3; // секунд после нажатия: музыка начинает проявляться
+const MUSIC_FADE = 1.5; // секунд плавного нарастания музыки
 
 const pad = (n) => String(n).padStart(2, "0");
 const clamp = (v, a, b) => Math.min(b, Math.max(a, v));
