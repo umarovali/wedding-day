@@ -19,7 +19,7 @@ import { TimelineIcon } from "./icons.jsx";
 import foto from "./foto.jpg";
 
 const CONFIG = {
-  groom: "Бахтийор",
+  groom: "Бахтиёр",
   bride: "Мохларойим",
   initials: "Б&М",
 
